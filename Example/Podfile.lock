@@ -1,0 +1,16 @@
+PODS:
+  - CarouselView_SwiftUI (0.1.0)
+
+DEPENDENCIES:
+  - CarouselView_SwiftUI (from `../`)
+
+EXTERNAL SOURCES:
+  CarouselView_SwiftUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CarouselView_SwiftUI: ac21e25c4df49c8248cf3e92e59e80592702c942
+
+PODFILE CHECKSUM: 4d24610d3ce7eeb5b5dc5245bf9ba5f3e614c4f7
+
+COCOAPODS: 1.12.1
